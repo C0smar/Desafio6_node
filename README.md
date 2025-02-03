@@ -22,7 +22,7 @@ La empresa **Soft Jobs** está desarrollando una plataforma para ayudar a los de
 
 Primero, clona este repositorio en tu máquina local:
 
-git clone https://github.com/tu-usuario/soft-jobs.git
+git clone https://github.com/C0smar/Desafio6_node.git
 cd soft-jobs
 
 2. Configurar la Base de Datos
